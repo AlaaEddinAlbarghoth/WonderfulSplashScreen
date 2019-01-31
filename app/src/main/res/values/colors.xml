@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#15C2FF</color>
+    <color name="colorPrimaryDark">#3378FF</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--Splash Screen Activity-->
+    <color name="splashLightColor">#15C2FF</color>
+    <color name="splashDarkColor">#3378FF</color>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+
+    <item>
+        <shape>
+            <gradient
+                    android:angle="90"
+                    android:startColor="@color/splashLightColor"
+                    android:endColor="@color/splashDarkColor"
+                    android:type="linear"/>
+        </shape>
+    </item>
+
+    <item android:gravity="center" android:layout_width ="200dp" android:layout_height="200dp">
+        <bitmap
+                android:gravity="fill_horizontal|fill_vertical"
+                android:src="@drawable/alaa"/>
+    </item>
+
+</layer-list>
